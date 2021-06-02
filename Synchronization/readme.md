@@ -1,4 +1,4 @@
 <h1>Synchronization Assignment: Producer Consumer Problem</h1>
 
-synch_pthread.c: solution with mutex</br>
-synch_semaphore.c: solution with semaphore
+<strong>synch_pthread.c:</strong> solution with mutex</br>
+<strong>synch_semaphore.c:</strong> solution with semaphore
