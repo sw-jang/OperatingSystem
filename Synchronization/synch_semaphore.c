@@ -24,7 +24,7 @@ sem_t mutex;
 int main() {
 	pthread_t tid1, tid2;
 
-	// semaphore initialization­
+	// semaphore initializationÂ­
 	sem_init(&not_empty, 0, 0);
 	sem_init(&mutex, 0, 1);
 	sem_init(&not_full, 0, BUFFER_SIZE - 1);
